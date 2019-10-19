@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="31" started-at="2019-10-18T00:33:30Z" finished-at="2019-10-18T00:33:30Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="31" started-at="2019-10-18T00:33:30Z" finished-at="2019-10-18T00:33:30Z">
+      <class name="qaclickacademy.AppiumTest">
+        <test-method status="PASS" signature="appium()[pri:0, instance:qaclickacademy.AppiumTest@1a407d53]" name="appium" duration-ms="0" started-at="2019-10-18T00:33:30Z" finished-at="2019-10-18T00:33:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appium -->
+      </class> <!-- qaclickacademy.AppiumTest -->
+      <class name="qaclickacademy.seleniumTest">
+        <test-method status="PASS" signature="seleniumtes()[pri:0, instance:qaclickacademy.seleniumTest@3498ed]" name="seleniumtes" duration-ms="5" started-at="2019-10-18T00:33:30Z" finished-at="2019-10-18T00:33:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- seleniumtes -->
+      </class> <!-- qaclickacademy.seleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
